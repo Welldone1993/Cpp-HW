@@ -35,7 +35,7 @@ main( ){
 		cout<<"\n";
 	}
 	
-	x=line;
+	x=line-1;
 	i=1;
 	while(x>0){
 		int j=x;
