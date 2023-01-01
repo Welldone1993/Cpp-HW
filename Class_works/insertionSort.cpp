@@ -4,7 +4,6 @@ using namespace std;
 int main(){
 	
 	int isArray[5] = {4,6,2,5,1};
-	int isSort[5];
 	int temp;
 	
 	for(int i=1;i<5;i++){
